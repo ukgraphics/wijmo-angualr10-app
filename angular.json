@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "wijmo-angular10-app"
+    }
+  },
+  "defaultProject": "wijmo-angular10-app",
+  "cli": {
+    "analytics": false
+  }
 }
